@@ -22,7 +22,7 @@ Welcome to the **Car Guessing Game**, a fun Python-based game where you have 12 
 3. Run the following command:
 
     ```bash
-    python car_guessing_game.py
+    python CarGuessingGame.py
     ```
 
 4. Enter your name and start guessing the car name.
